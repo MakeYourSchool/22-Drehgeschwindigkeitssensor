@@ -21,8 +21,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Rotary_Angle_Sensor)
+[Repository von Seed Studio](https://github.com/Seeed-Studio)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/)
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Mouse_Encoder/)
 
-[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/drehwinkelsensor/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/drehgeschwindigkeitssensor/)
